@@ -1,34 +1,55 @@
- 👋 Hi, I’m Chintha Srikar
+# SRIKAR CHINTHA
+**Contact:** +1 716-907-7718 | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](www.linkedin.com/in/chinthasrikar444)
 
-Welcome to my GitHub!
+## Education
+**Master of Science in Computer Science**  
+*University at Buffalo, The State University of New York, USA*  
+Aug 2023 - Dec 2024  
+_Relevant Courses:_ Algorithms, Operating Systems, Machine Learning
 
-I'm passionate about Machine Learning and Data Science. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data really pushes the field of Data Science and Machine Learning to a whole new level.
-![image](https://user-images.githubusercontent.com/29593466/198847355-52df789e-e39c-4fa0-a34e-f7a7ece96392.png)
+**Bachelor of Engineering in Computer Engineering**  
+*Vasavi College of Engineering, Osmania University, Hyderabad, India*  
+Aug 2015 - May 2019  
+CGPA: 9.21/10  
+_Relevant Courses:_ Computer Architecture, Computer Networks
 
-#
-**About Me**
+## Professional Experience
+**Software Engineer II, NCR Corporation | India**  
+Apr 2021 - Aug 2023  
+- Collaborated with PNC Bank, Citizens Bank, Visa DPS, and Fiserv.
+- Supervised, applied design patterns in C#, refactored code.
+- Oversaw software development lifecycle.
+- Initiated Quality Improvement program, achieved 100% code coverage.
+- Reduced onboarding time for new hires, performed Root Cause Analysis.
+- Implemented CI/CD pipelines.
 
-I'm a Graduate student at the Northeastern University majoring in Data Science. 
-With 3 years of experience as in solving real-world business problems across different Domains using my technical and statistical knowledge. Experienced in handling end to end data pipelines by enabling automation and neutralizing bottlenecks. I worked on projects ranging from pharmaceutical, Construction, retail, manufacturing and Stock market Forecasting.
+**Software Engineer I, NCR Corporation | India**  
+Jul 2019 - Mar 2021  
+- Worked on ATM software's Business Services layer.
+- Contributed to feature enhancements and bug fixes.
+- Created tool for SLA monitoring using Electron.js.
 
-I have completed courses such as Machine Learning Certification by Stanford University and Deep Learning Specialization by Andrew Ng
-##
+**Software Engineer Intern, NCR Corporation | India**  
+Mar 2019 - Jun 2019  
+- Built tool for ATM log analysis.
 
-**My Skills**
+## Technical Skills
+- **Languages:** C#, C++, Java, Python, Spring Boot
+- **Web Technologies:** HTML, CSS, JavaScript, Angular JS, React JS
+- **Databases:** MYSQL, MongoDB
+- **Others:** Data Structures, Algorithms, Design Patterns, Agile Methodologies, JIRA, Confluence, Version Controls, Jenkins, Neural Networks
 
-Languages & Frameworks: R, Python, Keras, Scikit-learn, Pytorch, TensorFlow, Pyspark, Flask, Streamlit, SQL
+## Academic Projects
+**Telecom Customer Churn Prediction**  
+- Employed classifiers like KNN and Logistic Regression for predicting churn.
 
-Machine Learning: Linear & Logistic Regression, Decision Trees, Support Vector Machines (SVM), Ensemble 
+**Fraud Detection in E-Commerce**  
+- Utilized RFM algorithm for behavioral segmentation and fraud detection.
 
-Methods Principal Component Analysis (PCA), Independent Component Analysis (ICA), Clustering Methods
-Deep Learning: Deep Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), AutoEncoders
+**Humanoid Robot**  
+- Designed a robot integrated with Google Assistant using Raspberry Pi, Node-MCU, Arduino IDE, C++, and IFTT.
 
-Cloud: GCP, AWS Sagemaker
-
-Please find a detailed desciprtion of my projects here - https://www.kaggle.com/code/shrutikunapuli/top-10-projects
-
-Feel free to reach out to me at: shruti.kp0507@gmail.com
-<!---
-shruti-visala1/shruti-visala1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Activities and Achievements
+- Received Customer First Awards for exceptional coordination in software release.
+- Young Leader Award recipient in 2019.
+- Supervised 'ACUMEN' Technical fest, organized workshops on IoT and Machine Learning.
