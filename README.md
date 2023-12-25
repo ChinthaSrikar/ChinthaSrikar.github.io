@@ -1,4 +1,4 @@
-# SRIKAR CHINTHA
+
 **Contact:** +1 716-907-7718 | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](www.linkedin.com/in/chinthasrikar444)
 
 ## Education
