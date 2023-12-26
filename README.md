@@ -1,4 +1,4 @@
-**Contact:** <span style="color:green">+1 716-907-7718</span> | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chinthasrikar444)
+**Contact:** <span style="color:green">+1 716-907-7718</span> | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](www.linkedin.com/in/chinthasrikar444)
 
 ## <span style="color:darkblue">Education</span>
 **<span style="color:darkred">Master of Science in Computer Science</span>**  
@@ -39,6 +39,12 @@ Mar 2019 - Jun 2019
 - **Others:** Data Structures, Algorithms, Design Patterns, Agile Methodologies, JIRA, Confluence, Version Controls, Jenkins, Neural Networks
 
 ## <span style="color:maroon">Academic Projects</span>
+
+**<span style="color:navy">VisionNxt</span>** (Jul 2022)  
+- Developed an end-to-end solution to enhance customer experience in ATM usage, saving user time.
+- Created a web application using MongoDB, React.js, Node.js, and Express.js.
+- The application provides information on the nearest operational ATM with desired transactions and available denominations.
+  
 **<span style="color:navy">Telecom Customer Churn Prediction</span>** (Aug 2023)  
 - Project Leader: Developed a predictive model using machine learning techniques (KNN, Logistic Regression) to forecast customer churn for a telecom company.
 - Analyzed IBM's sample dataset, conducted extensive data cleaning and exploratory data analysis.
