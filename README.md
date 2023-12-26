@@ -1,55 +1,64 @@
+# <span style="color:darkblue">SRIKAR CHINTHA</span>
+**Contact:** <span style="color:green">+1 716-907-7718</span> | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](www.linkedin.com/in/chinthasrikar444)
 
-**Contact:** +1 716-907-7718 | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](www.linkedin.com/in/chinthasrikar444)
-
-## Education
-**Master of Science in Computer Science**  
+## <span style="color:orange">Education</span>
+**<span style="color:darkred">Master of Science in Computer Science</span>**  
 *University at Buffalo, The State University of New York, USA*  
 Aug 2023 - Dec 2024  
 _Relevant Courses:_ Algorithms, Operating Systems, Machine Learning
 
-**Bachelor of Engineering in Computer Engineering**  
+**<span style="color:darkred">Bachelor of Engineering in Computer Engineering</span>**  
 *Vasavi College of Engineering, Osmania University, Hyderabad, India*  
 Aug 2015 - May 2019  
 CGPA: 9.21/10  
 _Relevant Courses:_ Computer Architecture, Computer Networks
 
-## Professional Experience
-**Software Engineer II, NCR Corporation | India**  
+## <span style="color:purple">Professional Experience</span>
+**<span style="color:teal">Software Engineer II, NCR Corporation | India</span>**  
 Apr 2021 - Aug 2023  
-- Collaborated with PNC Bank, Citizens Bank, Visa DPS, and Fiserv.
-- Supervised, applied design patterns in C#, refactored code.
-- Oversaw software development lifecycle.
-- Initiated Quality Improvement program, achieved 100% code coverage.
-- Reduced onboarding time for new hires, performed Root Cause Analysis.
-- Implemented CI/CD pipelines.
+- Led collaboration with PNC Bank, Citizens Bank, Visa DPS, and Fiserv, ensuring successful project implementation and client satisfaction.
+- Directed and mentored a team in applying design patterns in C#, resulting in enhanced code efficiency and performance.
+- Managed the software development lifecycle, emphasizing strategic planning and execution.
+- Initiated and led a Quality Improvement program, achieving 100% code coverage and significant reduction in defects.
+- Designed and conducted a comprehensive training program, reducing onboarding time for new hires by 30%.
+- Spearheaded the implementation of CI/CD pipelines, boosting deployment efficiency and reliability.
 
-**Software Engineer I, NCR Corporation | India**  
+**<span style="color:teal">Software Engineer I, NCR Corporation | India</span>**  
 Jul 2019 - Mar 2021  
-- Worked on ATM software's Business Services layer.
-- Contributed to feature enhancements and bug fixes.
-- Created tool for SLA monitoring using Electron.js.
+- Played a pivotal role in the development of the ATM software's Business Services layer, leading to a 30% decrease in production issues.
+- Led feature enhancements and bug fixes, demonstrating problem-solving skills and technical expertise.
+- Developed a tool for SLA monitoring using Electron.js, showcasing innovation and proactive approach.
 
-**Software Engineer Intern, NCR Corporation | India**  
+**<span style="color:teal">Software Engineer Intern, NCR Corporation | India</span>**  
 Mar 2019 - Jun 2019  
-- Built tool for ATM log analysis.
+- Independently developed a tool for ATM log analysis, enhancing the efficiency of troubleshooting processes.
 
-## Technical Skills
+## <span style="color:brown">Technical Skills</span>
 - **Languages:** C#, C++, Java, Python, Spring Boot
 - **Web Technologies:** HTML, CSS, JavaScript, Angular JS, React JS
 - **Databases:** MYSQL, MongoDB
 - **Others:** Data Structures, Algorithms, Design Patterns, Agile Methodologies, JIRA, Confluence, Version Controls, Jenkins, Neural Networks
 
-## Academic Projects
-**Telecom Customer Churn Prediction**  
-- Employed classifiers like KNN and Logistic Regression for predicting churn.
+## <span style="color:maroon">Academic Projects</span>
+**<span style="color:navy">Telecom Customer Churn Prediction</span>** (Aug 2023)  
+- Project Leader: Developed a predictive model using machine learning techniques (KNN, Logistic Regression) to forecast customer churn for a telecom company.
+- Analyzed IBM's sample dataset, conducted extensive data cleaning and exploratory data analysis.
+- Created a Flask-based web tool for users to input parameters and receive churn predictions.
+- Achieved a model accuracy of 82%, demonstrating effective data handling and modeling skills.
 
-**Fraud Detection in E-Commerce**  
-- Utilized RFM algorithm for behavioral segmentation and fraud detection.
+**<span style="color:navy">Fraud Detection in E-Commerce</span>** (Jun 2023)  
+- Team Lead: Designed a system to detect fraudulent activities in e-commerce transactions using Python and data analytics.
+- Implemented RFM (Recency, Frequency, Monetary) algorithm to segment customers based on behavioral patterns.
+- Applied predictive analytics to identify high-value customers and potential fraud cases.
+- Enhanced security measures and customer trust for the e-commerce platform.
 
-**Humanoid Robot**  
-- Designed a robot integrated with Google Assistant using Raspberry Pi, Node-MCU, Arduino IDE, C++, and IFTT.
+**<span style="color:navy">Humanoid Robot</span>** (Jan 2019)  
+- Project Leader: Engineered a humanoid robot capable of walking, talking, and responding to queries using Google Assistant.
+- Integrated Raspberry Pi, Node-MCU with ESP8266 Wi-Fi module, and Arduino IDE for hardware control.
+- Utilized C++, IFTTT, and Adafruit IO for programming and connecting various devices.
+- Demonstrated innovation in IoT and robotics, achieving seamless interaction between the robot and its environment.
 
-## Activities and Achievements
-- Received Customer First Awards for exceptional coordination in software release.
-- Young Leader Award recipient in 2019.
-- Supervised 'ACUMEN' Technical fest, organized workshops on IoT and Machine Learning.
+## <span style="color:darkgreen">Activities and Achievements</span>
+- **Customer First Awards:** Recognized for exceptional leadership and coordination in software release at Fulton and PNC banks.
+- **Young Leader Award 2019:** Honored as the best outgoing student in the Computer Engineering branch for exemplary leadership.
+- **Technical Fest 'ACUMEN':** Led the organization and supervision of the event, including workshops on IoT and Machine Learning, demonstrating strong leadership and organizational skills.
