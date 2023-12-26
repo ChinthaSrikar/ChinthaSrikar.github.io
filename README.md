@@ -1,4 +1,4 @@
-**Contact:** <span style="color:green">+1 716-907-7718</span> | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](www.linkedin.com/in/chinthasrikar444)
+**Contact:** <span style="color:green">+1 716-907-7718</span> | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chinthasrikar444)
 
 ## <span style="color:darkblue">Education</span>
 **<span style="color:darkred">Master of Science in Computer Science</span>**  
