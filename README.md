@@ -5,12 +5,14 @@
 *University at Buffalo, The State University of New York, USA*  
 Aug 2023 - Dec 2024  
 CGPA: 3.9/4.0
+
 _Relevant Courses:_ Algorithms, Operating Systems, Machine Learning
 
 **<span style="color:darkred">Bachelor of Engineering in Computer Engineering</span>**  
 *Vasavi College of Engineering, Osmania University, Hyderabad, India*  
 Aug 2015 - May 2019  
 CGPA: 9.21/10  
+
 _Relevant Courses:_ Computer Architecture, Computer Networks
 
 ## <span style="color:purple">Professional Experience</span>
