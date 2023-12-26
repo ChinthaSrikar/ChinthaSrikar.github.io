@@ -1,4 +1,3 @@
-# <span style="color:darkblue">SRIKAR CHINTHA</span>
 **Contact:** <span style="color:green">+1 716-907-7718</span> | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](www.linkedin.com/in/chinthasrikar444)
 
 ## <span style="color:orange">Education</span>
