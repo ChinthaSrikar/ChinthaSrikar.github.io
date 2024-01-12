@@ -1,5 +1,20 @@
 **Contact:** <span style="color:green">+1 716-907-7718</span> | [srikarchintha444@gmail.com](mailto:srikarchintha444@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chinthasrikar444)
 
+### About Me
+
+🌟 I am a seasoned software developer with over 4 years of professional experience at NCR Corporation. During my tenure, I have played integral roles ranging from Software Engineer Intern to Software Engineer II, where I led significant projects and initiatives, demonstrating a strong aptitude for both leadership and technical innovation.
+
+🔍 Currently, I am pursuing my Master of Science in Computer Science at the University at Buffalo, specializing in Machine Learning, Deep Learning, and Computer Vision. My academic journey is bolstered by a solid foundation in Computer Engineering, where I graduated from Vasavi College of Engineering, Osmania University with a CGPA of 9.21/10.
+
+💡 I am passionate about leveraging my skills in cutting-edge technologies to drive impactful solutions. My technical expertise spans a wide range of languages and tools, including C#, C++, Java, Python, and various web technologies. I am also adept in database management, using MYSQL and MongoDB, and employ a keen understanding of Data Structures, Algorithms, and Design Patterns.
+
+🚀 In my recent projects, I have developed innovative solutions in areas such as ATM customer experience enhancement, telecom customer churn prediction, e-commerce fraud detection, and IoT-based robotics. These projects not only showcase my technical skills but also my ability to lead and execute complex projects effectively.
+
+🏆 My commitment to excellence has been recognized through awards like the Customer First Awards and the Young Leader Award 2019. I have also contributed to the technical community through leadership roles in events like the Technical Fest 'ACUMEN'.
+
+💼 As I continue to evolve in my professional and academic pursuits, I am excited to explore opportunities where I can contribute my expertise in software development and my growing knowledge in Machine Learning, Deep Learning, and Computer Vision.
+
+
 ## <span style="color:darkblue">Education</span>
 **<span style="color:darkred">Master of Science in Computer Science</span>**  
 *University at Buffalo, The State University of New York, USA*  
