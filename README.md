@@ -4,9 +4,9 @@
 **<span style="color:darkred">Master of Science in Computer Science</span>**  
 *University at Buffalo, The State University of New York, USA*  
 Aug 2023 - Dec 2024  
-CGPA: 3.9/4.0
+CGPA: 3.92/4.0
 
-_Relevant Courses:_ Algorithms, Operating Systems, Machine Learning
+_Relevant Courses:_ Algorithms, Operating Systems, Machine Learning, Deep Learning, Computer Vision
 
 **<span style="color:darkred">Bachelor of Engineering in Computer Engineering</span>**  
 *Vasavi College of Engineering, Osmania University, Hyderabad, India*  
